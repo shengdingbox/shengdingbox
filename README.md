@@ -13,5 +13,5 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shengdingbox&repo=simpleFS&layout=compact)](https://github.com/shengdingbox/simpleFS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shengdingbox&repo=seckill-flow&layout=compact)](https://github.com/shengdingbox/seckill-flow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shengdingbox&repo=aibotgo&layout=compact)](https://github.com/shengdingbox/aibotgo)
 ---
